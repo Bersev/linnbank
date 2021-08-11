@@ -5,5 +5,6 @@ public class ClassOne {
 
         System.out.println("hello world");
         System.out.println("welcome Bank Project members");
+        System.out.println("first commit");
     }
 }
